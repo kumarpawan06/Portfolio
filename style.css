@@ -1,0 +1,145 @@
+body {
+    font-family: "Merriweather", serif;
+    text-align: center;
+    margin: 0;
+    color: #40514E;
+  }
+  
+  .top-container {
+    /*background-color: #bedbbb;*/
+    background-color: #C7E5C4;
+    /*background-color: #93D5CD;*/
+    padding-top: 100px;
+    position: relative;
+  }
+  
+  h1 {
+    margin: 0;
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    margin-top: 60px;
+    color: #66BFBF;
+  }
+  
+  h2{
+    margin-top: 20px;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+  }
+  
+  h3 {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    color: #11999E;
+  }
+  
+  a{
+    text-decoration: none;
+    color: #11999E;
+    margin: 0 30px;
+  }
+  
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    right: 900px;
+  }
+  
+  .exterior-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  .interior-pic {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+  }
+  
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  .profile-pic{
+    height: auto;
+    margin-top: 10px;
+    width: 15px;
+  }
+
+
+  .intro {
+    margin: auto;
+    width: 500px;
+    line-height: 2;
+  }
+  
+  hr{
+    border-top: 8px dotted #aabbbb;
+    width: 70px;
+    margin: 70px auto;
+  }
+  
+  .bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0;
+  }
+  
+  .copyright {
+    color: #EAF6F6;
+    margin: auto;
+    margin-top: 35px;
+    font-size: 12px;
+  }
+  p {
+    width: 500px;
+  }
+  
+  .exterior-text {
+    width: 600px;
+  }
+  
+  .botton-text {
+    margin: 40px auto;
+  }
+  
+  .btn {
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 13px;
+     line-height: 13px;
+     color: #FFFFFF;
+     font-family: monospace;
+     width: 106px;
+     font-size: 18px;
+     font-weight: 100;
+     padding: 13px;
+     background-color: #66BFBF;
+     text-shadow: 1px 1px 20px #000000;
+     border: solid #FFFFFF 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 40px;
+  }
+  
+  .btn:hover {
+     background: #1E62D0;
+     border: solid #66BFBF 1px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     text-decoration: none;
+  }
+  
